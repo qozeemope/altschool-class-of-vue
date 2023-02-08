@@ -1,5 +1,5 @@
 <script>
-import ColorPickerGame from "./components/ColorPickerGame.vue";
+import ColorPickerGame from "./components/ColorPickerGame";
 import Recap_01_02_2023 from "./components/Recap_01_02_2023.vue";
 
 export default {
